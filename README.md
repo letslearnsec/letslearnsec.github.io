@@ -30,7 +30,7 @@ We welcome contributions from the community! If you have valuable insights, tips
 
 ## Meet the Team
 
-- **[Collins Charles Baffour](https://twitter.com/r3d11n3)** - Founder, Cybersecurity Enthusiast & Content Creator
+- **[Collins Charles Baffour](https://github.com/collins-42)** - Founder, Cybersecurity Enthusiast & Content Creator
 <!-- - **[Team Member Name](link-to-team-member-profile)** - Cybersecurity Expert -->
 <!-- - **[Team Member Name](link-to-team-member-profile)** - Content Creator -->
 

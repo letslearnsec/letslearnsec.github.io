@@ -1,7 +1,7 @@
 ---
 title: Introduction To Cybersecurity Part 1
-description: 
-date: 2024-04-04 12:00:00 +000
+description: Explore the essentials of cybersecurity, including its definition, domains, fundamental principles, and prevalent threats, in our concise blog
+date: 2024-04-04 00:00:00 +000
 categories: [Cybersecurity, Introduction]
 tags: [introduction, security]
 author: collins_baffour

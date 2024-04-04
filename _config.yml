@@ -19,8 +19,7 @@ title: Lets Learn Sec # the main title
 tagline: Learning Cybersecurity Together! 🛡️💻 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  Join me on a cybersecurity journey as I share insights, lessons, and triumphs, documenting my learning adventure to empower fellow beginners on the path to digital security proficiency and collectively build a safer online world.
-
+  Embark with us on a cybersecurity expedition where we'll share insights, lessons, and triumphs, documenting our collective learning journey. Together, we'll empower fellow beginners on the path to digital security proficiency, working as a team to build a safer online world.
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://letslearnsec.github.io"
@@ -76,7 +75,7 @@ theme_mode: # [light | dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: assets/img/avatars/avatar.png
+avatar: https://raw.githubusercontent.com/letslearnsec/letslearnsec.github.io/main/assets/img/logos/logo.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

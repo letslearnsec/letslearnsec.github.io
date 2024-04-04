@@ -1,7 +1,7 @@
 ---
 title: Introduction To Cybersecurity Part 1
 description: 
-date: 2024-03-31 12:00:00 +000
+date: 2024-04-04 12:00:00 +000
 categories: [Cybersecurity, Introduction]
 tags: [introduction, security]
 author: collins_baffour

@@ -1,7 +1,7 @@
 ---
 title: Introduction To Markdown
 date: 2022-03-23 12:00:00 -500
-categories: [markdown, introduction, md]
+categories: [Markdown, Introduction]
 tags: [introduction, blogging]
 author: collins_baffour
 ---

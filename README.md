@@ -1,4 +1,4 @@
-# About LetsLearnSec
+<!-- # About LetsLearnSec -->
 
 <!-- ![Lets Learn Sec Logo](https://raw.githubusercontent.com/letslearnsec/letslearnsec.github.io/main/assets/img/logos/logo.png) -->
 

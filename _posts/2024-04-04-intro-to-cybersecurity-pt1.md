@@ -6,7 +6,7 @@ categories: [Cybersecurity, Introduction]
 tags: [introduction, security]
 author: collins_baffour
 image:
-    path: https://raw.githubusercontent.com/letslearnsec/letslearnsec.github.io/main/assets/img/contents/introduction-to-cybersecurity/pt1-cyber.png
+    path: /assets/img/contents/introduction-to-cybersecurity/pt1-cyber.png
 ---
 
 In today's interconnected digital age, cybersecurity has become more critical than ever before. Attacks can originate from any corner. Attacks ranges from personal data or identity theft to computer systems that can breach millions of pieces of personal data including credit card information.
@@ -76,8 +76,8 @@ In cybersecurity, CIA triad is a fundamental concept. The CIA triad refers to th
 
 This triad is defined by three essential principles: __Confidentiality__, __Integrity__, and __Availability__. The CIA Triad is actually a security model that has been developed to help people think about various parts of IT security. Let’s go through each component of this triad.
 
-![The CIA Triad](https://raw.githubusercontent.com/letslearnsec/letslearnsec.github.io/main/assets/img/contents/introduction-to-cybersecurity/cia.png){: .light }{: w="700" h="150" }
-![The CIA Triad](https://raw.githubusercontent.com/letslearnsec/letslearnsec.github.io/main/assets/img/contents/introduction-to-cybersecurity/cia-dark.png){: .dark }{: w="700" h="150" }
+![The CIA Triad](/assets/img/contents/introduction-to-cybersecurity/cia.png){: .light }{: w="700" h="150" }
+![The CIA Triad](/assets/img/contents/introduction-to-cybersecurity/cia-dark.png){: .dark }{: w="700" h="150" }
 
 #### Confidentiality
 

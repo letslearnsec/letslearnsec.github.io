@@ -33,7 +33,7 @@ We welcome contributions from the community! If you have valuable insights, tips
 ## Meet the Team
 
 - **[Collins Charles Baffour](https://github.com/collins-42)** - Founder, Cybersecurity Enthusiast & Content Creator
-<!-- - **[Team Member Name](link-to-team-member-profile)** - Cybersecurity Expert -->
+- **[Lartey Kpabitey Gabriel](https://www.linkedin.com/in/larteykpabiteygabriel)** - Co-fouunder, Cybersecurity Enthusiast & System Developer
 <!-- - **[Team Member Name](link-to-team-member-profile)** - Content Creator -->
 
 ## Connect With Us

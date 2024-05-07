@@ -1,12 +1,13 @@
 ---
-title: Introduction To Cybersecurity Part 1
-description: Explore the essentials of cybersecurity, including its definition, domains, fundamental principles, and prevalent threats, in our concise blog
+title: Introduction To Cybersecurity
+description: Explore the essentials of cybersecurity, including its definition, domains and fundamental principles.
 date: 2024-04-04 00:00:00 +000
 categories: [Cybersecurity, Introduction]
-tags: [introduction, security]
+tags: [introduction, cybersecurity]
 author: collins_baffour
 image:
     path: /assets/img/contents/introduction-to-cybersecurity/pt1-cyber.png
+    alt: Cybersecurity Introduction
 ---
 
 In today's interconnected digital age, cybersecurity has become more critical than ever before. Attacks can originate from any corner. Attacks ranges from personal data or identity theft to computer systems that can breach millions of pieces of personal data including credit card information.
@@ -23,7 +24,7 @@ According to a formal definition by **Microsoft**,
 
 > _Cybersecurity is a set of processes, best practices, and technology solutions that help protect your critical systems and network from digital attacks_.
 
-Cyber attacks come in various forms ranging from fraudulent email distribution or phishing campaigns to denying access to a targeted website.
+Cyber attacks come in various forms ranging from fraudulent email distribution or phishing campaigns to denying access to a targeted website. 
 
 Imagine a small e-commerce business that sells handmade crafts online. This business relies on its website to showcase products, process orders, and handle customer transactions. Now, let's consider the implications of a cyber attack on this business:
 
@@ -161,34 +162,7 @@ It provides assurance that actions such as sending a message or conducting a fin
 Non-repudiation is often achieved through cryptographic techniques such as digital signatures and timestamps, which create certain evidence of the origin and integrity of data exchanges.
 
 
-## Cyber Threats
-
-Cyber Threats involves any malicious activity that targets computer systems, networks and data with the intent to compromise the confidentiality, integrity and availability. These threats keep evolving as technology advances and attackers develop new techniques to exploit vulnerabilities. Here are some common cyber threats:  
-
-- **Malware**  
-  Malware, short for _"malicious software"_, includes any software designed to harm or infiltrate a computer system. This includes viruses, worms, trojans, ransomware, spyware, and adware.  
-  Malware can steal sensitive information, damage computer systems, or take control of a device for nefarious purposes.
-
-- **Phishing**  
-  Phishing attacks involve the use of fraudulent emails, messages, or websites to trick individuals into revealing sensitive information such as login credentials, financial data, or personal details.  
-  Phishing attacks often impersonate legitimate entities, such as banks or social media platforms to deceive victims.
-
-- **Denial-of-Service (DoS) and Distributed Denial-of-Service (DDoS) Attacks**  
-  DoS and DDoS attacks aim to disrupt the availability of networks, servers or websites by overwhelming them with excessive traffic.  
-  In a DoS attack, a single source floods the target with traffic, while in a DDoS attack, multiple compromised devices are coordinated to launch the assault, making it more difficult to mitigate.  
-  These compromised devices, often referred to as **bots**, are typically part of a **botnet**, which is a network of multiple distributed systems that a cybercriminal hijacks by using malware and remote-controlled operations.
-
-- **Social Engineering**  
-  Social engineering is the psychological manipulation of individuals into divulging confidential information or performing actions that compromise security.  
-
-  This involves **pretexting**, where an attacker fabricates a scenario to gain someone's trust, or **baiting**, where enticing offers are used to lure victims into clicking on malicious links or downloading malware.
-
-- **Insider Threats**  
-  Insider threats occur when authorized users within an organization being it an employee, contractor or business partner intentionally or accidentally misuse their access privileges or have their accounts hijacked by cybercriminals.
-
-  Insider threats can be harder to detect than external threats because they have the appearance of an authorized activity.Moreover, they often evade traditional security measures such as antivirus software, firewalls and other solutions designed to block external attacks.
-
-In conclusion, cybersecurity is not merely a technical concern but a fundamental aspect of safeguarding our digital world. By understanding the domains, principles, and threats within cybersecurity, individuals and organizations can better protect themselves against the ever-evolving landscape of cyber threats.  
+In conclusion, cybersecurity is not merely a technical concern but a fundamental aspect of safeguarding our digital world. By understanding the domains and principles within cybersecurity, individuals and organizations can better protect themselves against the ever-evolving landscape of cyber threats.  
 
 Remember, cybersecurity is a shared responsibility that requires ongoing vigilance, education, and proactive measures. By staying informed, implementing best practices, and fostering a culture of security, we can collectively create a safer and more resilient digital environment for all.
 
